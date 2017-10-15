@@ -1,0 +1,28 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  background: blueviolet; }
+
+.none {
+  display: none !important; }
+
+p {
+  margin: 0 0 5px; }
+
+.article {
+  background: #FFF;
+  border: 1px solid rgba(0, 89, 181, 0.82);
+  width: 600px;
+  margin: 0 0 5px;
+  box-shadow: 2px 2px 5px -1px #0051ca;
+  padding: 3px 5px; }
+
+.news__author {
+  text-decoration: underline;
+  color: #007DDC; }
+
+.news__count {
+  margin: 10px 0 0 0;
+  display: block; }
+
+/*# sourceMappingURL=style.css.map */
